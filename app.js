@@ -1,3 +1,5 @@
 require('./Config/app');
 
-require('./Config/routes')
+require('./Config/routes');
+
+require('./Config/error');
